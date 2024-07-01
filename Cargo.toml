@@ -1,0 +1,11 @@
+[package]
+name = "configure"
+version = "0.1.0"
+edition = "2021"
+description = "reusable configure containers"
+authors = ["nishikigii", "andei_buite"]
+repository = "https://github.com/Nishikigii/properties.rs"
+license = "MIT"
+keywords = ["nishikigii", "config", "data"]
+
+[dependencies]
