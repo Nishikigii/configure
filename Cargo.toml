@@ -9,4 +9,5 @@ license = "MIT"
 keywords = ["nishikigii", "config", "data"]
 
 [dependencies]
+tokio = "1.39.1"
 essentials = "*"
